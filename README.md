@@ -1,7 +1,7 @@
 # sidewinder_firmware
 its the binary stock firmware for sidewinder x2 3d printer
 
-right now its version 2.0.9.3 build under windows 10 with vscode, config comming from marlin repos here on github, so its stock
+right now its version 2.0.9.3 build under windows 11 with vscode, config comming from marlin repos here on github, so its stock
 https://github.com/artillery3d/sidewinder-x2-firmware
 https://github.com/MarlinFirmware/Configurations
 
